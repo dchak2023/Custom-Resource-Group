@@ -1,0 +1,9 @@
+kind: DevOPSBatch
+apiVersion: trainwithshubham.com/v1
+metadata:
+  name: enclave
+spec:
+  name: DevOPS - Zero to Hero Enclave 9
+  duration: 4 months from 1st December 2025
+  mode: Live Lectures
+  platform: trainwithshubham.com
